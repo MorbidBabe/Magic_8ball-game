@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Magic_8ball game", "Magic_8ball game\Magic_8ball game.pyproj", "{00F0E77D-3080-4A66-8916-DC15FB530332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00F0E77D-3080-4A66-8916-DC15FB530332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F0E77D-3080-4A66-8916-DC15FB530332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DBAD9C-89A6-4A01-A83E-865C02E0C356}
+	EndGlobalSection
+EndGlobal
